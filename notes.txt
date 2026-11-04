@@ -1,3 +1,5 @@
 I am learning Git.
 Git is useful for DevOps.
 Git is amazing wohoooooo
+
+i m commiting reset practicing
