@@ -1,3 +1,1 @@
-I am learning Git.
-Git is useful for DevOps.
-Git is amazing wohoooooo
+this is my unfinished work
